@@ -1,0 +1,224 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner [ref=e6]:
+      - navigation [ref=e8]:
+        - generic [ref=e10]:
+          - button [ref=e11] [cursor=pointer]
+          - link "Truelife" [ref=e17] [cursor=pointer]:
+            - /url: /
+            - img "Truelife" [ref=e18]
+    - generic [ref=e20]:
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - heading "GET PRICING To see pricing and join, select your church’s average attendance" [level=3] [ref=e24]:
+            - text: GET PRICING
+            - img [ref=e25]
+            - text: To see pricing and join, select your church’s average attendance
+          - group "..." [ref=e26]:
+            - button "0 - 49" [ref=e27] [cursor=pointer]
+            - button "50 - 99" [ref=e28] [cursor=pointer]
+            - button "100 - 149" [ref=e29] [cursor=pointer]
+            - button "150 - 399" [ref=e30] [cursor=pointer]
+            - button "400 - 749" [ref=e31] [cursor=pointer]
+            - button "750 - 1,499" [ref=e32] [cursor=pointer]
+            - button "1,500 - 2,500" [ref=e33] [cursor=pointer]
+            - button "2,500+" [ref=e34] [cursor=pointer]
+            - button "Or Make Your Offer" [ref=e35] [cursor=pointer]
+          - generic [ref=e36]: "\"Brothers, my heart's desire and prayer to God for them is that they may be saved.\" Romans 10:1"
+        - generic [ref=e38]:
+          - generic [ref=e39]:
+            - heading "Monthly Plan (12 Payments Required)" [level=4] [ref=e40]:
+              - text: Monthly Plan
+              - subscript [ref=e41]: (12 Payments Required)
+            - heading "$ - SELECT ABOVE" [level=5] [ref=e42]
+          - paragraph
+          - list [ref=e44]:
+            - listitem [ref=e45]:
+              - link "--- Custom designed QR code pastor video invitation cards" [ref=e46] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e47]:
+              - link "One Year License to use TrueLife.org" [ref=e48] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e49]:
+              - link "Majority of Church Inviting & Evangelizing" [ref=e50] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e51]:
+              - link "Access to True Life Church Locator System" [ref=e52] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e53]:
+              - link "Connect Jesus Stories to Church Profile" [ref=e54] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e55]:
+              - link "Study Guides and Leader Guides" [ref=e56] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e57]:
+              - link "Evangelism Boot Camp and Leader Guides" [ref=e58] [cursor=pointer]:
+                - /url: "#embeddmodal"
+            - listitem [ref=e59]:
+              - link "Video Player for Your Website" [ref=e60] [cursor=pointer]:
+                - /url: javascript:void(0)
+        - generic [ref=e62]:
+          - generic [ref=e63]:
+            - heading "Yearly Plan (save 16%)" [level=4] [ref=e64]:
+              - text: Yearly Plan
+              - subscript [ref=e65]: (save 16%)
+            - heading "$ - SELECT ABOVE" [level=5] [ref=e66]
+          - paragraph
+          - list [ref=e68]:
+            - listitem [ref=e69]:
+              - link "--- Custom designed QR code pastor video invitation cards" [ref=e70] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e71]:
+              - link "One Year License to use TrueLife.org" [ref=e72] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e73]:
+              - link "Majority of Church Inviting & Evangelizing" [ref=e74] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e75]:
+              - link "Access to True Life Church Locator System" [ref=e76] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e77]:
+              - link "Connect Jesus Stories to Church Profile" [ref=e78] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e79]:
+              - link "Study Guides and Leader Guides" [ref=e80] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e81]:
+              - link "Evangelism Boot Camp and Leader Guides" [ref=e82] [cursor=pointer]:
+                - /url: "#embeddmodal"
+            - listitem [ref=e83]:
+              - link "Video Player for Your Website" [ref=e84] [cursor=pointer]:
+                - /url: javascript:void(0)
+        - generic [ref=e86]:
+          - img [ref=e87]
+          - heading "Above and Beyond Guarantees:" [level=3] [ref=e88]
+          - paragraph [ref=e89]: If there is EVER a TrueLife.org video or article the church disagrees with, you get a full refund.
+          - paragraph [ref=e90]: If your leadership says no after watching the introduction video and before we design your invitation cards or print them, you get a full refund.
+          - paragraph [ref=e91]: You have 30 days with the cards to follow our strategy. If you are unhappy with the result, we will give you a full refund.
+      - generic [ref=e94]:
+        - generic [ref=e95]:
+          - link "Ken Ham" [ref=e97] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - img "Ken Ham" [ref=e98]
+          - heading "Ken Ham" [level=6] [ref=e99]:
+            - link "Ken Ham" [ref=e100] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - paragraph [ref=e101]: “Many people are fearful to evangelize because they’re worried about the questions they are going to get asked. TrueLife.org can help you with that.”
+        - generic [ref=e102]:
+          - link "Josh Mcdowell" [ref=e104] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - img "Josh Mcdowell" [ref=e105]
+          - heading "Josh Mcdowell" [level=6] [ref=e106]:
+            - link "Josh Mcdowell" [ref=e107] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - paragraph [ref=e108]: “Pastor, TrueLife.org gives your members an edge and the courage to invite people to your church. I would personally encourage you to take advantage of TrueLife.org. Hey, go for it!”
+        - generic [ref=e109]:
+          - link "Jonathan Falwell" [ref=e111] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - img "Jonathan Falwell" [ref=e112]
+          - heading "Jonathan Falwell" [level=6] [ref=e113]:
+            - link "Jonathan Falwell" [ref=e114] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - paragraph [ref=e115]: “TrueLife.org is a ground breaking evangelism and discipleship tool which creates a culture of invitation in your church.”
+        - generic [ref=e116]:
+          - link "Mark Angelo Ware" [ref=e118] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - img "Mark Angelo Ware" [ref=e119]
+          - heading "Mark Angelo Ware" [level=6] [ref=e120]:
+            - link "Mark Angelo Ware" [ref=e121] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - paragraph [ref=e122]: “TrueLife.Org utilizes cutting-edge technology, coupled with sound biblical principles, to formulate an innovative evangelistic outreach tool that empowers every Christian believer to win souls with confidence!”
+        - generic [ref=e123]:
+          - link "Paige Patterson" [ref=e125] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - img "Paige Patterson" [ref=e126]
+          - heading "Paige Patterson" [level=6] [ref=e127]:
+            - link "Paige Patterson" [ref=e128] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - paragraph [ref=e129]: “TrueLife.org helps those hesitant to witness. Let's place in the hands of our people materials that will make a difference in their ability to Share the Good News of Christ Jesus."TrueLife.org can help you with that.”
+        - generic [ref=e130]:
+          - link "Danny Akin" [ref=e132] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - img "Danny Akin" [ref=e133]
+          - heading "Danny Akin" [level=6] [ref=e134]:
+            - link "Danny Akin" [ref=e135] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - paragraph [ref=e136]: “TrueLife.org takes evangelism, discipleship and local church growth to innovative heights.”
+    - contentinfo [ref=e137]:
+      - generic [ref=e140]:
+        - generic [ref=e141]:
+          - heading "Still have questions?" [level=4] [ref=e142]
+          - paragraph [ref=e143]: If you don’t see your question listed, feel free to submit it to our experts or live chat with a real person.
+        - generic [ref=e144]:
+          - img "Submit a question" [ref=e146]
+          - generic [ref=e147]:
+            - heading "Submit a question" [level=4] [ref=e148]:
+              - link "Submit a question" [ref=e149] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - paragraph [ref=e150]: If you don’t see your question listed, let usknow and we may answer it on our site.
+        - generic [ref=e151]:
+          - img "Live chat" [ref=e153]
+          - generic [ref=e154]:
+            - heading "Live chat with us" [level=4] [ref=e155]
+            - paragraph [ref=e156]:
+              - text: Questions about life and God
+              - link "click here" [ref=e157] [cursor=pointer]:
+                - /url: https://chataboutjesus.com/
+              - text: ", Pastors & Customer Support"
+              - link "here" [ref=e158] [cursor=pointer]:
+                - /url: https://www.truelife.org/pages/contact-truelife-org
+              - text: .
+      - generic [ref=e161]:
+        - generic [ref=e163]:
+          - heading "Churches Near" [level=4] [ref=e164]
+          - paragraph [ref=e165]: Each church on our system has partnered with TrueLife.org and are ready to be a part of your life.
+          - img "Church Map" [ref=e167]
+          - generic [ref=e168]:
+            - textbox "zipcode..." [ref=e170]
+            - generic [ref=e171]: Enter your zip code
+            - list
+            - link "View More" [ref=e173] [cursor=pointer]:
+              - /url: /locations
+        - generic [ref=e175]:
+          - heading "Resources for Pastors" [level=4] [ref=e176]
+          - paragraph [ref=e177]: Our proven strategy sees 70% of church members invite after one Sunday. You have to see it to believe it! Click any of the links below.
+          - list [ref=e178]:
+            - listitem [ref=e179]:
+              - link "70% Invite After One Sunday" [ref=e180] [cursor=pointer]:
+                - /url: https://truelife.org/pastors
+            - listitem [ref=e181]:
+              - link "Study Guides and Leader Guides" [ref=e182] [cursor=pointer]:
+                - /url: https://truelife.org/pastors
+            - listitem [ref=e183]:
+              - link "TrueLife.org Church Invitation Cards" [ref=e184] [cursor=pointer]:
+                - /url: https://truelife.org/pastors
+            - listitem [ref=e185]:
+              - link "Video Player for Your Website" [ref=e186] [cursor=pointer]:
+                - /url: https://truelife.org/pastors
+            - listitem [ref=e187]:
+              - link "Custom Church Profile" [ref=e188] [cursor=pointer]:
+                - /url: https://truelife.org/pastors
+            - listitem [ref=e189]:
+              - link "Outreach & Evangelism" [ref=e190] [cursor=pointer]:
+                - /url: https://truelife.org/pastors
+          - link "View All Resources" [ref=e192] [cursor=pointer]:
+            - /url: https://truelife.org/pastors
+        - generic [ref=e194]:
+          - heading "About TrueLife" [level=4] [ref=e195]
+          - paragraph [ref=e196]: TrueLife.org has filmed and compiled content that delivers thorough answers from a biblically conservative Christian point of view. We have partnered with nearly 2,000 churches to share Christ’s deep and unfailing love with our veiwers.
+          - link "Learn more" [ref=e198] [cursor=pointer]:
+            - /url: https://truelife.org/pages/about-truelife-org/
+        - paragraph [ref=e200]:
+          - text: © 2006-2026 True Life Inc. All rights reserved. |
+          - link "Terms & Conditions" [ref=e201] [cursor=pointer]:
+            - /url: /pages/terms-of-use
+          - text: "|"
+          - link "Privacy Policy" [ref=e202] [cursor=pointer]:
+            - /url: /pages/privacy-policy
+          - text: "|"
+          - link "Login" [ref=e203] [cursor=pointer]:
+            - /url: https://mytruelife.org/users/sign-in
+          - text: "|"
+          - link "Contact Us" [ref=e204] [cursor=pointer]:
+            - /url: /pages/contact-truelife-org
+  - status

@@ -1,0 +1,1 @@
+import{S as r}from"./DGoXKJ1G.js";import{e as o,o as t}from"./CmrFuxvR.js";import"./BCXShpH7.js";import"./DrZ9r9p2.js";import"./VsMi-dcL.js";import"./DzmA1ix0.js";import"./BwRBlh1W.js";import"./C_D14njq.js";import"./BxKaHYut.js";import"./Bmf1feXD.js";import"./DUJuLkLj.js";const h={__name:"[...slug]",setup(e){return(p,m)=>(t(),o(r))}};export{h as default};

@@ -1,0 +1,1 @@
+import{u as a,f as n,n as o}from"./CmrFuxvR.js";const _={__name:"search",async setup(c){let e,t;const s=a(),r=String(s.query.q||"").trim();return[e,t]=n(()=>o(r?`/search-result/${encodeURIComponent(r)}`:"/search-result/all",{replace:!0})),await e,t(),()=>{}}};export{_ as default};

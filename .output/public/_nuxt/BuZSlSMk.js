@@ -1,0 +1,1 @@
+import{P as r}from"./Bm6KldcY.js";import{e as o,o as e}from"./CmrFuxvR.js";import"./DrZ9r9p2.js";import"./VsMi-dcL.js";const s={__name:"pricing",setup(t){return(a,c)=>(e(),o(r))}};export{s as default};

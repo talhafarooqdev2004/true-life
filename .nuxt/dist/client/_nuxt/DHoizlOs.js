@@ -1,0 +1,1 @@
+import{A as r}from"./Bm3gmNOm.js";import{e as t,o}from"./CmrFuxvR.js";import"./BCXShpH7.js";import"./DrZ9r9p2.js";import"./VsMi-dcL.js";import"./DzmA1ix0.js";import"./BwRBlh1W.js";import"./Bmf1feXD.js";const f={__name:"[slug]",setup(e){return(p,i)=>(o(),t(r))}};export{f as default};

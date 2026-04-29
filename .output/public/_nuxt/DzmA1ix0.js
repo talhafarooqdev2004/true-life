@@ -1,0 +1,1 @@
+import{_ as t}from"./BwRBlh1W.js";import{o as a,e as o,w as c,a as r}from"./CmrFuxvR.js";const _={__name:"IconSearch",props:{size:{type:[Number,String],default:24}},setup(s){return(i,e)=>(a(),o(t,{size:s.size},{default:c(()=>[...e[0]||(e[0]=[r("circle",{cx:"11",cy:"11",r:"8"},null,-1),r("line",{x1:"21",y1:"21",x2:"16.65",y2:"16.65"},null,-1)])]),_:1},8,["size"]))}};export{_};
