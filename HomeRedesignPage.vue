@@ -217,7 +217,7 @@
           >
             <div class="flex items-center gap-[12px]">
               <div
-                class="flex h-[48px] w-[48px] shrink-0 items-center justify-center rounded-[14px] bg-[#EFF4E4] text-[20px] font-bold text-[#7CB342]"
+                class="flex h-[48px] w-[55px] lg:w-[60px] shrink-0 items-center justify-center rounded-[14px] bg-[#EFF4E4] text-[20px] font-bold text-[#7CB342]"
               >
                 {{ stat.value }}
               </div>
@@ -612,7 +612,6 @@ const topicCards = [
     ],
     ctaLabel: "Explore 5 Resources",
     filters: ["all"],
-    active: true,
   },
   {
     id: "church",

@@ -94,7 +94,7 @@
           </div>
 
           <div
-            class="mt-[80px] lg:mt-[40px] grid grid-cols-2 gap-y-[32px] lg:grid-cols-4 lg:gap-y-0 lg:gap-x-[60px] lg:text-left"
+            class="mt-[80px] lg:mt-[40px] grid grid-cols-2 gap-y-[32px] lg:grid-cols-4 lg:gap-y-0 gap-x-[60px] lg:text-left"
           >
             <div>
               <p
@@ -382,10 +382,7 @@
               <div class="h-full w-full" v-html="pageEmbed" />
             </div>
 
-            <div
-              v-else
-              class="h-[80%] w-full"
-            >
+            <div v-else class="h-[80%] w-full">
               <InlineVideoPlayer
                 title="Watch Our Story"
                 poster="https://images.unsplash.com/photo-1511632765486-a01980e01a18?q=80&w=1200&auto=format&fit=crop"
