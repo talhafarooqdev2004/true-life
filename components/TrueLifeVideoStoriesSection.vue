@@ -1,7 +1,7 @@
 <template>
   <section class="w-full bg-[#F9FAFB]">
     <div
-      class="mx-auto w-full max-w-[394px] bg-[#F8FAFC] px-[32px] lg:py-[100px] lg:max-w-[1320px] lg:px-0"
+      class="mx-auto w-full max-w-[394px] bg-[#F8FAFC] px-[32px] py-[100px] lg:max-w-[1320px] lg:px-0"
     >
       <div class="flex justify-center bg-[#F8FAFC]">
         <div
