@@ -32,7 +32,7 @@
       </div>
 
       <h2
-        class="mx-auto mt-[16px] max-w-[320px] text-center text-[30px] lg: text-[48px] font-bold leading-[36px] lg:leading-[48px] tracking-[-0.55px] text-[#101828] lg:max-w-[700px]"
+        class="mx-auto mt-[16px] max-w-[320px] text-center text-[30px] lg:text-[48px] font-bold leading-[36px] lg:leading-[48px] tracking-[-0.55px] text-[#101828] lg:max-w-[700px]"
       >
         Read What Leaders Are Saying...
       </h2>
